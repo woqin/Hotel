@@ -1,0 +1,15 @@
+D:\VSProject\Hotel\Hotel.DataEntity\bin\Debug\Hotel.DataEntity.dll
+D:\VSProject\Hotel\Hotel.DataEntity\bin\Debug\Hotel.DataEntity.pdb
+D:\VSProject\Hotel\Hotel.DataEntity\bin\Debug\Hotel.Util.dll
+D:\VSProject\Hotel\Hotel.DataEntity\bin\Debug\Hotel.Util.pdb
+D:\VSProject\Hotel\Hotel.DataEntity\obj\Debug\Hotel.DataEntity.csproj.AssemblyReference.cache
+D:\VSProject\Hotel\Hotel.DataEntity\obj\Debug\Hotel.DataEntity.csproj.CoreCompileInputs.cache
+D:\VSProject\Hotel\Hotel.DataEntity\obj\Debug\Hotel.DataEntity.csproj.CopyComplete
+D:\VSProject\Hotel\Hotel.DataEntity\obj\Debug\Hotel.DataEntity.dll
+D:\VSProject\Hotel\Hotel.DataEntity\obj\Debug\Hotel.DataEntity.pdb
+D:\VSProject\Hotel\Hotel.DataEntity\bin\Debug\Hotel.DataEntity.dll.config
+D:\VSProject\Hotel\Hotel.DataEntity\bin\Debug\EntityFramework.dll
+D:\VSProject\Hotel\Hotel.DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProject\Hotel\Hotel.DataEntity\bin\Debug\EntityFramework.xml
+D:\VSProject\Hotel\Hotel.DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSProject\Hotel\Hotel.DataEntity\bin\Debug\zh-Hans\EntityFramework.resources.dll

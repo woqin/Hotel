@@ -1,0 +1,6 @@
+D:\VSProject\Hotel\Hotel.BizModel\bin\Debug\Hotel.BizModel.dll
+D:\VSProject\Hotel\Hotel.BizModel\bin\Debug\Hotel.BizModel.pdb
+D:\VSProject\Hotel\Hotel.BizModel\obj\Debug\Hotel.BizModel.csproj.AssemblyReference.cache
+D:\VSProject\Hotel\Hotel.BizModel\obj\Debug\Hotel.BizModel.csproj.CoreCompileInputs.cache
+D:\VSProject\Hotel\Hotel.BizModel\obj\Debug\Hotel.BizModel.dll
+D:\VSProject\Hotel\Hotel.BizModel\obj\Debug\Hotel.BizModel.pdb

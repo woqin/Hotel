@@ -1,0 +1,17 @@
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\Hotel.BizLogic.dll
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\Hotel.BizLogic.pdb
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\Hotel.BizModel.dll
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\Hotel.DataEntity.dll
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\Hotel.Util.dll
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\Hotel.BizModel.pdb
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\Hotel.DataEntity.pdb
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\Hotel.Util.pdb
+D:\VSProject\Hotel\Hotel.BizLogic\obj\Debug\Hotel.BizLogic.csproj.AssemblyReference.cache
+D:\VSProject\Hotel\Hotel.BizLogic\obj\Debug\Hotel.BizLogic.csproj.CoreCompileInputs.cache
+D:\VSProject\Hotel\Hotel.BizLogic\obj\Debug\Hotel.BizLogic.csproj.CopyComplete
+D:\VSProject\Hotel\Hotel.BizLogic\obj\Debug\Hotel.BizLogic.dll
+D:\VSProject\Hotel\Hotel.BizLogic\obj\Debug\Hotel.BizLogic.pdb
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\EntityFramework.dll
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\Hotel.DataEntity.dll.config
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\EntityFramework.xml
+D:\VSProject\Hotel\Hotel.BizLogic\bin\Debug\zh-Hans\EntityFramework.resources.dll
